@@ -68,7 +68,7 @@ function CarCard({ car, onClick }) {
 
         {/* IMAGE */}
         <img
-          src={`/src/assets/images/cars/${car.image}`}
+          src={`/assets/images/cars/${car.image}`}
           alt={car.name}
           style={{
             width: "100%",

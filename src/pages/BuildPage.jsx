@@ -163,7 +163,7 @@ function BuildPage() {
         }}
       >
         <img
-          src={`/src/assets/images/cars/${car.image}`}
+          src={`/assets/images/cars/${car.image}`}
           style={{
             width: "100%",
             borderRadius: "12px",

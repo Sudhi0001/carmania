@@ -69,8 +69,8 @@ function Dashboard() {
           position: "relative"
         }}>
           <img
-            src={`/src/assets/images/cars/${currentFeatured.image}`}
-            style={{
+    src={`/assets/images/cars/${currentFeatured.image}`}            
+style={{
               width: "100%",
               height: "300px",
               objectFit: "cover"
@@ -188,7 +188,7 @@ function Dashboard() {
             >
 
               <img
-                src={`/src/assets/images/cars/${car.image}`}
+                src={`/assets/images/cars/${car.image}`}                
                 style={{
                   width: "100%",
                   height: "160px",
