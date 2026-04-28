@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #020617;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+.car-card {
+  transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+  border: 1px solid #1e293b;
+}
+
+.car-card:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 0 20px rgba(239, 68, 68, 0.6);
+  border-color: #ef4444;
+}
