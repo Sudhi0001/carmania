@@ -50,7 +50,7 @@ Unlike basic CRUD apps, this project focuses on:
 
 ## 📸 Screenshots
 
-(Add images here)
+
 
 Example:
 
