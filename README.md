@@ -76,7 +76,7 @@ src/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/carmania.git
+git clone https://github.com/Sudhi0001/carmania.git
 cd carmania
 npm install
 npm run dev
