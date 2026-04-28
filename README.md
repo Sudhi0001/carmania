@@ -54,9 +54,9 @@ Unlike basic CRUD apps, this project focuses on:
 
 Example:
 
-![Home](public/screenshots/home.png)
-![Dashboard](public/screenshots/dashboard.png)
-![Build](public/screenshots/build.png)
+![Home](public/assets/home.png)
+![Dashboard](public/assets/dashboard.png)
+![Build](public/assets/build.png)
 
 ---
 
